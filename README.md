@@ -1,4 +1,4 @@
-# Minecraft: Bedrock Edition Behavior Pack
+# Minecraft: Bedrock Edition Behavior Pack (Discontinued, use the [public](https://github.com/ZtechNetwork/MCBVanillaPack/master) branch)
 ## Repository Status
 ![GitHub All Releases](https://img.shields.io/github/downloads/ZtechNetwork/MCBVanillaBehaviorPack/total) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ZtechNetwork/MCBVanillaBehaviorPack?include_prereleases) ![GitHub last commit](https://img.shields.io/github/last-commit/ZtechNetwork/MCBVanillaBehaviorPack/beta)
 
